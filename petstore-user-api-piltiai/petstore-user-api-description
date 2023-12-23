@@ -1,0 +1,6 @@
+This test simulates simultanious users interacting with the API.
+
+Each user follows the next steps:
+1. Creates a user
+3. Gets user details
+4. Deletes the user
